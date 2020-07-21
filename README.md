@@ -6,6 +6,7 @@ Students have become secret admirers of SEGP. They find the course exciting and 
 Output all the integers separated in the array from left to right that are not smaller than those on its right side.  
 Constraints: 
 1 &lt;= n &lt;= 1000000 0 &lt;= arr[i] &lt;= 10000.
+
 SAMPLE INPUT
 6
 16
@@ -14,6 +15,7 @@ SAMPLE INPUT
 3
 5
 2
+
 SAMPLE OUTPUT
 17
 5
